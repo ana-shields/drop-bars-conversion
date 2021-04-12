@@ -1,4 +1,4 @@
-# //WORK-IN-PROGRESS
+# //WIP
 # Converting Disc Brakes Bicycles (MTB/Hybrid) to Drop Handlebars
 ## Why read?
 Do you have a MTB/Hybrid? And it's currently on a flat handlebar configuration and on disc brakes? Want to reuse your MTB disc brake calipers? Keep reading!
