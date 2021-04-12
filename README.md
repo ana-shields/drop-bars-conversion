@@ -23,7 +23,7 @@ However, in my experience, certain MTB brake calipers could work by pre-loading 
 - Very likely your rotors are not 100% true, back-off 1-2 clicks of your R-pad to prevent rotor rub. 
 - At this point, your brake levers should feel a little mushy and the levers may be almost touching your drop handlebars. That is expected. Perform next step to resolve this.
 - Since the Sensah levers are short-pull (as opposed to flat-bar levers doing linear pull), be sure to pre-load the brake arm. To pre-load the brake arm, loosen the brake arm bolt, move the arm say 10-20% engaged (as it would be when the brake lever is squeezed) and tighten the cable before tightening the brake arm bolt. Check for disc brake rotor rub. No rub? You may pre-load further for less brake lever travel (and maybe power?).
-> ![Pre-loading of brake arm](https://github.com/weirdbikehacks/drop-bars-conversion/blob/main/brake_caliper_instructions.jpg)
+> ![Pre-loading of brake arm](https://github.com/ana-shields/drop-bars-conversion/blob/main/brake_caliper_instructions.jpg)
 - Warning: This could have poor results if your disc rotor is already bent. True it as much as possible, or just swap it out with a fresh rotor. (I used RT-56 deore rotor for resin pads)
 - For more information on brake alignment, watch this: https://www.youtube.com/watch?v=NmqGeLNcVIg&ab_channel=ParkTool
 
